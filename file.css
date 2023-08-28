@@ -4,8 +4,7 @@ table, th, td {
  }
  img {
    display:block;
-     margin-left:auto;
-     margin-right:auto;
+    
    height:500px;
     width:400px;
          }
